@@ -1,1 +1,0 @@
-Contenido en español
