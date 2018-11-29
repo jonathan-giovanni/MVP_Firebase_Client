@@ -5,6 +5,11 @@
 
 # Aplicación que utiliza el patrón de diseño MVP para consumir datos de Firebase en la plataforma Android
 
+
+<img src="https://github.com/jonathancplusplus/MVP_Firebase_Client/blob/master/pictures/app.png" width="480">
+
+
+
 Este proyecto tiene las siguientes caracteristicas
 
 * Proyecto separado en paquetes para mejor identificación de cada elemento
